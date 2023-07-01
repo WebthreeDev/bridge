@@ -1,0 +1,16 @@
+{
+  "short_name": "ETH RISE App",
+  "name": "ETH RISE Cross Chain Swaps",
+  "description": "Cross Chain Swaps with ETH RISE",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
